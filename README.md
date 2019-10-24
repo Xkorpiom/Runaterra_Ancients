@@ -1,4 +1,4 @@
-# flutter_app
+# flutterleague
 
 A new Flutter application.
 
